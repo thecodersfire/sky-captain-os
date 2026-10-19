@@ -4,7 +4,19 @@ org.videolan.VLC
 org.mozilla.firefox
 com.opera.opera-gx
 
-# Three additional preinstalled purpose-specific applications
+# Three previously added purpose-specific applications
 org.flightgear.FlightGear
 com.heroicgameslauncher.hgl
 net.lutris.Lutris
+
+# Ten additional preinstalled purpose-specific applications
+org.gnome.Maps
+org.gnome.Weather
+org.gnome.clocks
+org.gnome.Calendar
+org.gnome.Calculator
+org.gnome.Boxes
+org.gnome.Logs
+org.gnome.TextEditor
+org.gnome.Papers
+org.gnome.Contacts
