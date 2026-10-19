@@ -24,3 +24,9 @@ The `sky-captain.svg` wallpaper is original. Sky Captain OS is an independent Ub
 
 See [FEATURES.md](FEATURES.md) for three local tools included for flight simulation.
 
+
+The installer also includes three purpose-specific applications: **Heroic Games Launcher, Lutris, Bottles**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Heroic Games Launcher, Lutris, Bottles**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **FlightGear, Heroic Games Launcher, Lutris**. See [FEATURES.md](FEATURES.md).

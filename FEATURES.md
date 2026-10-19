@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/sky-captain-os-workspace features/sky-captain-os-plan features/sky-captain-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for flight simulation:
+
+1. **FlightGear** — org.flightgear.FlightGear
+2. **Heroic Games Launcher** — com.heroicgameslauncher.hgl
+3. **Lutris** — net.lutris.Lutris
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
