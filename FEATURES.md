@@ -39,3 +39,25 @@ The setup installs these ten Flathub apps selected for flight simulation:
 10. **GNOME Contacts** — organize partner and team contacts (org.gnome.Contacts)
 
 Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.
+
+## Fifteen more purpose-specific preinstalled applications
+
+These applications add tools suited to this setup focus. They are installed from Flathub by the setup scripts.
+
+1. **Stellarium** (org.stellarium.Stellarium) — explore a planetarium sky for astronomy learning.
+2. **GeoGebra Classic** (org.geogebra.GeoGebra) — explore geometry, algebra, graphing, and 3D math.
+3. **Xournal++** (com.github.xournalpp.xournalpp) — annotate PDFs and take handwritten notes.
+4. **Thunderbird** (org.mozilla.Thunderbird) — manage email and communication accounts.
+5. **Evolution** (org.gnome.Evolution) — manage email, calendars, and contacts.
+6. **JabRef** (org.jabref.jabref) — organize BibTeX references and research citations.
+7. **Gitg** (org.gnome.gitg) — review Git history and branches graphically.
+8. **DBeaver Community** (io.dbeaver.DBeaverCommunity) — browse, query, and manage SQL databases.
+9. **digiKam** (org.kde.digikam) — catalog, tag, and batch-process large photo collections.
+10. **Shotwell** (org.gnome.Shotwell) — import, sort, and make quick edits to photo libraries.
+11. **QElectroTech** (org.qelectrotech.QElectroTech) — draw electrical schematics and wiring diagrams.
+12. **LibreCAD** (org.librecad.librecad) — draft precise 2D technical drawings.
+13. **Disk Usage Analyzer** (org.gnome.baobab) — find large files and manage storage.
+14. **OBS Studio** (com.obsproject.Studio) — record or stream sessions.
+15. **Flatseal** (com.github.tchx84.Flatseal) — review Flatpak app permissions.
+
+Emulator frontends do not include game ROMs or copyrighted game files; supply only files you are legally allowed to use.
