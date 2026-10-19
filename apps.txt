@@ -37,3 +37,20 @@ org.librecad.librecad
 org.gnome.baobab
 com.obsproject.Studio
 com.github.tchx84.Flatseal
+
+# Fifteen further preinstalled purpose-specific applications
+org.kde.kstars
+org.kde.marble
+org.kde.kgeography
+org.kde.kgeotag
+org.kde.okular
+org.kde.kcalc
+org.kde.kdevelop
+org.kde.kate
+org.kde.dolphin
+org.kde.ark
+org.kde.filelight
+io.github.flattool.Warehouse
+com.github.flxzt.rnote
+org.gnome.meld
+org.kde.konsole
